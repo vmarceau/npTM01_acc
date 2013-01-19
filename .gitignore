@@ -1,0 +1,10 @@
+# Subfolders
+dat/
+doc/
+bin/
+obj/
+# Files
+*~
+*.cbp
+*.depend
+*.layout
